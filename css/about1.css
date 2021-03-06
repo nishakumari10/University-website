@@ -1,0 +1,53 @@
+body{
+	
+	text-align: center;
+}
+p{
+	font-family: helvetica;
+	line-height: 2;
+	font-size: 1rem;
+
+}
+hr{
+	margin: 100px auto;
+	width: 10%;
+	border:dotted #000 6px;
+	border-bottom: none;
+}
+.success{
+	width: 80%;
+	margin: 70px auto 100px auto;
+	text-align: left;
+	}
+.nptel{
+	width:20%;
+	border-radius: 10%;
+	float: left;
+	margin-right: 20px;
+}
+.coursera{
+	
+	border-radius: 100%;
+	float: right;
+	margin-left:  30px;
+}
+.udemy{
+	width:25%;
+	border-radius: 10%;
+	float: left;
+	margin-right: 20px;
+
+}
+.unacademy{
+	width: 15%;
+	border-radius: 100%;
+	float: right;
+	margin-left:  25px;
+}
+.img2{
+	width: 25%;
+	
+	float: right;
+	margin-left:  30px;
+
+}
